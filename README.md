@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Innovation World
 
-You can use the [editor on GitHub](https://github.com/vcvemuri/Innovation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Innovation team represents diversity of thoughts, talents, training, life experiences, and perspectives.  It will be able to ensure that any necessary processes are implemented to help capture ideas and incentivize employees. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It is important to position this team as mentors rather than adjudicators, to guide the process and provide the parameters within which innovation can thrive. 
 
-### Markdown
+Mission: To provide unique, collaborative, Innovative, and quality technology solutions to DBHDS.
+Consistently help usher the agency towards implementing, analyzing, and realizing the benefits of innovative ideas that will allow the agency to reach its strategic goals. The Innovation Team endorses the spirit of welcoming and undergoing change for the better, throughout the agency.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our team is necessary to progress the Mission and Vision statements of DBHDS.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+OBJECTIVES
+1)	To generate, develop, and implement new ideas and processes in order to enhance and support the vision, mission, and values of the agency. 
+2)	Research including:
+•	Industry ranking and standards
+•	Product availability and estimates
+•	Supported technological environments
+•	Demonstrations
+3)	Collaborations such as:
+•	Inter & Intra agency, universities, and private sector through partnerships, meetings, and business relationships.
+4)	Implementation:
+•	New product development and recommendations.
+•	Support the agency’s vision of minimizing technical debt.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vcvemuri/Innovation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
